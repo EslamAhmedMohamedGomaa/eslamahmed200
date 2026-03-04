@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Moepoi  
+# Hi there 👋 I'm Eslam Ahmed
 
-I'm a **Flutter Developer** (21 y.o) passionate about building beautiful, scalable, and high-performance cross-platform applications.  
+I'm a **Flutter Developer** (21 y.o) passionate about building scalable, high-performance, and beautiful cross-platform applications.  
 
-I love turning ideas into real apps — especially projects inspired by **anime culture** 🎌✨  
+I love turning ideas into real apps — especially projects inspired by anime culture 🎌✨  
 
 ---
 
@@ -12,23 +12,13 @@ I love turning ideas into real apps — especially projects inspired by **anime 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### 🛠 Other Technologies
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+### ☕ Backend & Services
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-009688?style=for-the-badge)
 
 ---
 
-## 📱 Featured Projects
-
-- 🔥 [Frontier of Hell](https://github.com/moepoi/Frontier-of-Hell)  
-- 🍳 [Kitchen Counts](https://github.com/moepoi/Kitchen_Counts)  
-- 🌸 [Nekoya](https://github.com/Nekoya-Site)  
-- 📚 [Easy Learn](https://github.com/Easy-Learn/App/releases/tag/v1.0.1)  
-- 🎆 [Neonime App](https://install.appcenter.ms/users/moepoi/apps/neonime/distribution_groups/public)  
-- 🤖 [Nepgear Bot](https://t.me/NepgearBot)  
-- 🌐 [WhoisBot](https://t.me/WhoisBot)  
-- ⚡ [Moe API](https://beta.moe.team)  
 
 ---
 
@@ -46,11 +36,11 @@ I love turning ideas into real apps — especially projects inspired by **anime 
 
 ## 🎌 About Me
 
-- 💙 Focused on **Flutter & Dart**
-- 🧠 Always learning and improving my architecture & clean code skills
-- 🎨 Interested in UI/UX & smooth animations
-- 🚀 Building scalable apps & APIs
-- 👻 Anime enthusiast
+- 💙 Focused on Flutter & Dart  
+- 🔥 Experience integrating REST APIs  
+- ☁️ Working with Firebase (Auth, Firestore, etc.)  
+- 🧠 Writing clean and maintainable code  
+- 🎨 Interested in UI/UX & smooth animations  
 
 ---
 
@@ -64,4 +54,4 @@ I love turning ideas into real apps — especially projects inspired by **anime 
 
 ---
 
-⭐ If you like my work, feel free to follow or connect!
+⭐ If you like my work, feel free to connect!
