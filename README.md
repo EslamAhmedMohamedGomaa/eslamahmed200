@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Eslam Ahmed
 
-I'm a **Flutter Developer** (21 y.o) passionate about building scalable, high-performance, and beautiful cross-platform applications.  
+I'm a **Flutter Developer** (24 y.o) passionate about building scalable, high-performance, and beautiful cross-platform applications.  
 
 I love turning ideas into real apps — especially projects inspired by anime culture 🎌✨  
 
@@ -20,9 +20,6 @@ I love turning ideas into real apps — especially projects inspired by anime cu
 ---
 
 
----
-
-
 
 
 ## 🎌 About Me
@@ -35,14 +32,16 @@ I love turning ideas into real apps — especially projects inspired by anime cu
 
 ---
 
-## 📫 Contact Me
+## 📎 Connect With Me
 
-<a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
-<a rel="me" href="https://moe.onl/@moepoi" target="_blank"><img src="https://img.shields.io/badge/Mastodon-%40moepoi-blueviolet"></a>
-<a href="https://linkedin.com/in/moepoi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-moepoi-informational"></a>
-<a href="mailto:moe@poi.lol"><img src="https://img.shields.io/badge/Email-moe%40poi.lol-orange"></a>
-<a href="https://moepoi.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red"></a>
+<a href="https://www.linkedin.com/in/eslam-ahmed-561988247" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Eslam%20Ahmed-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:eslamahmed01003483741@gmail.com">
+<img src="https://img.shields.io/badge/Email-eslamahmed01003483741%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ---
 
-⭐ If you like my work, feel free to connect!
+⭐ If you like my work, feel free to connect!!
