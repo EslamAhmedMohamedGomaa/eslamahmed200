@@ -22,17 +22,8 @@ I love turning ideas into real apps — especially projects inspired by anime cu
 
 ---
 
-## 📊 GitHub Stats
 
-<details>
-<summary>Click to expand</summary>
 
-<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi">
-<img src="https://github-profile-trophy.vercel.app/?username=moepoi">
-
-</details>
-
----
 
 ## 🎌 About Me
 
