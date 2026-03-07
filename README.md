@@ -35,7 +35,7 @@
 - 🧠 Writing **clean, maintainable, and scalable code**
 - 🎨 Passionate about **UI/UX & smooth animations**
 
----
+
 
 
 
