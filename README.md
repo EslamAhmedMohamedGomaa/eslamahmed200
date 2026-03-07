@@ -46,6 +46,7 @@ I love turning ideas into real apps — especially projects inspired by anime cu
 </a>
 
 ---
+![snake gif](https://github.com/eslamahmed200/eslamahmed200/blob/output/github-contribution-grid-snake.svg)
 
 
 
