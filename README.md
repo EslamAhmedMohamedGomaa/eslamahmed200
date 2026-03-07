@@ -41,7 +41,20 @@ I love turning ideas into real apps — especially projects inspired by anime cu
 <a href="mailto:eslamahmed01003483741@gmail.com">
 <img src="https://img.shields.io/badge/Email-eslamahmed01003483741%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href="https://wa.me/201003483741?text=Hello%20Eslam%2C%20I%20saw%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20connect%20with%20you." target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 ---
+## 📊 GitHub Stats
+
+![Eslam GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+---
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+---
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 ⭐ If you like my work, feel free to connect!!
