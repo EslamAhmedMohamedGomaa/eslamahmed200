@@ -1,69 +1,74 @@
-<div align="center">
+# Hi 👋, I'm Eslam Ahmed Mohamed  
+### Flutter Developer | Software Engineer  
 
-# 👋 Hi there, I'm Eslam Ahmed
+📍 Cairo, Egypt  
+📧 eslamahmed01003483741@gmail.com  
+📞 (+20) 1003483741  
 
-💙 **Flutter Developer** | Building scalable cross-platform apps  
-🎌 Inspired by anime culture & creative UI experiences  
-
-</div>
-
----
-
-## 🚀 Tech Stack
-
-### 💙 Mobile Development
-<p>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### ☕ Backend & Services
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-</p>
+🔗 [LinkedIn](https://www.linkedin.com/in/eslam-ahmed-561988247)  
+💻 [GitHub](https://github.com/EslamAhmedMohamedGomaa/eslamahmed200)  
 
 ---
 
-## 🎌 About Me
-
-- 💙 Specialized in **Flutter & Dart**
-- 📱 Building **scalable cross-platform mobile apps**
-- 🔥 Experienced in **REST API integration**
-- ☁️ Working with **Firebase (Auth, Firestore, Storage)**
-- 🧠 Writing **clean, maintainable, and scalable code**
-- 🎨 Passionate about **UI/UX & smooth animations**
-
-
-
-
+## 🚀 About Me
+Junior Flutter Developer passionate about building cross-platform mobile applications using **Flutter & Dart**.  
+I have experience in **responsive UI**, **REST APIs**, and **Firebase (Authentication & Firestore)**.  
+Always learning and improving my skills to build scalable and user-friendly apps.
 
 ---
 
-
-## 📎 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/eslam-ahmed-561988247">
-<img src="https://img.shields.io/badge/LinkedIn-Eslam%20Ahmed-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:eslamahmed01003483741@gmail.com">
-<img src="https://img.shields.io/badge/Email-eslamahmed01003483741%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/201003483741?text=Hello%20Eslam%2C%20I%20saw%20your%20GitHub%20profile%20and%20I%20would%20like%20to%20connect%20with%20you.">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-</p>
+## 🛠️ Tech Stack
+- **Languages:** Dart, Java  
+- **Frameworks:** Flutter  
+- **Backend:** REST APIs, Firebase  
+- **Database:** Firestore  
+- **Tools:** Git, GitHub, Android Studio, VS Code  
+- **Concepts:** OOP, Responsive Design  
 
 ---
 
-<div align="center">
+## 📱 Projects
 
-⭐ **If you like my work, feel free to connect!**
+### 📌 Attendance Management App
+- Mobile app for tracking student attendance  
+- Clean and simple UI  
 
-</div>
+---
+
+### 📌 Point App
+- Responsive Flutter application  
+- Focused on UI design  
+
+🔗 https://github.com/EslamAhmedMohamedGomaa/point  
+
+---
+
+### 📌 Toku App
+- Language learning / translation app  
+- Built using Flutter  
+
+🔗 https://github.com/EslamAhmedMohamedGomaa/toks-app  
+
+---
+
+### 🛒 E-commerce App
+- Mobile app for buying and selling products  
+- Features: product listing, cart, UI design  
+
+🔗 https://github.com/EslamAhmedMohamedGomaa/ecommerce-app  
+
+---
+
+## 📊 GitHub Stats
+![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=EslamAhmedMohamedGomaa&show_icons=true)
+
+---
+
+## 💡 Goals
+- Improve Flutter & Clean Architecture  
+- Learn advanced state management  
+- Build real-world scalable apps  
+
+---
+
+⭐ Don't forget to check my repositories!
