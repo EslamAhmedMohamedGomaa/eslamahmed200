@@ -27,7 +27,7 @@ Always improving my skills and aiming to build scalable, real-world applications
 
 ## 📱 Featured Projects
 
-### 🛒 E-commerce App
+### 🛒 Cofee Shop APP
 - Mobile app for browsing, buying, and selling products  
 - Features: product listing, cart, and clean UI  
 🔗 [View Project](### 🛒 E-commerce App
