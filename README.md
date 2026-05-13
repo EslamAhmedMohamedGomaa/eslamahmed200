@@ -30,10 +30,9 @@ Always improving my skills and aiming to build scalable, real-world applications
 ### 🛒 Cofee Shop APP
 - Mobile app for browsing, buying, and selling products  
 - Features: product listing, cart, and clean UI  
-🔗 [View Project](### 🛒 E-commerce App
-- Mobile app for browsing, buying, and selling products  
-- Features: product listing, cart, and clean UI  
 🔗 [View Project](https://github.com/EslamAhmedMohamedGomaa/ecommerce-app)
+
+---
 
 ---)
 
