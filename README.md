@@ -4,10 +4,10 @@
 
 📍 Cairo, Egypt  
 📞 (+20) 1003483741  
-📧 [Email Me](mailto:eslamahmed01003483741@gmail.com)  
+📧 [Email Me](mailto:eslamahmed01003483741@gmail.com)
 
 🔗 [LinkedIn](https://www.linkedin.com/in/eslam-ahmed-561988247)  
-💻 [GitHub](https://github.com/EslamAhmedMohamedGomaa/eslamahmed200)
+💻 [GitHub](https://github.com/EslamAhmedMohamedGomaa)
 
 ---
 
@@ -74,6 +74,22 @@ Flutter-based e-commerce application for browsing and managing products.
 
 🔗 **GitHub:**  
 https://github.com/EslamAhmedMohamedGomaa/ecommerce-app
+
+---
+
+## 🪑 Furniture App
+Modern Flutter furniture shopping application with an elegant and responsive user interface.
+
+### Features
+- Product Listing
+- Product Details
+- Category Browsing
+- Responsive UI Design
+- Reusable Widgets
+- Clean Architecture
+
+🔗 **GitHub:**  
+https://github.com/EslamAhmedMohamedGomaa/furniture-app
 
 ---
 
@@ -144,7 +160,7 @@ Mobile application for tracking student attendance efficiently.
 
 📧 Email: eslamahmed01003483741@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/eslam-ahmed-561988247  
-💻 GitHub: https://github.com/EslamAhmedMohamedGomaa/eslamahmed200
+💻 GitHub: https://github.com/EslamAhmedMohamedGomaa
 
 ---
 
